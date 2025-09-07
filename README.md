@@ -8,6 +8,9 @@ Screenshot of google colab:
 <img width="640" height="340" alt="image" src="https://github.com/user-attachments/assets/60597108-f782-4770-af16-b8d8e7a86d1c" />
 <img width="640" height="330" alt="image" src="https://github.com/user-attachments/assets/cdb13d29-8243-477d-b425-8f88707217e8" />
 
+Demo Link:
+https://drive.google.com/drive/folders/11dcPLp0ByedaYTTFSYMON_3Ar2igb4Yy
+
 
 
 
