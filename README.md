@@ -8,10 +8,12 @@ Screenshot of google colab:
 <img width="640" height="340" alt="image" src="https://github.com/user-attachments/assets/60597108-f782-4770-af16-b8d8e7a86d1c" />
 <img width="640" height="330" alt="image" src="https://github.com/user-attachments/assets/cdb13d29-8243-477d-b425-8f88707217e8" />
 
-Demo Link:
+Demo video Link:
 https://drive.google.com/drive/folders/11dcPLp0ByedaYTTFSYMON_3Ar2igb4Yy
-
-
+Demo link:
+https://colab.research.google.com/drive/12wgJCPqtdqFG5M-R6ZQ6ZHo_INRXS5zb#scrollTo=N2JIlTDrZtdV&line=11&uniqifier=1
+Document link:
+https://drive.google.com/file/d/1YZ5GodxM7cXv0ajjjGFY-GKd7lI-4Y7K/view?usp=drivesdk
 
 
 
