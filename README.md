@@ -13,8 +13,7 @@ https://drive.google.com/drive/folders/11dcPLp0ByedaYTTFSYMON_3Ar2igb4Yy
 Demo link:
 https://colab.research.google.com/drive/12wgJCPqtdqFG5M-R6ZQ6ZHo_INRXS5zb#scrollTo=N2JIlTDrZtdV&line=11&uniqifier=1
 Document link:
-https://drive.google.com/file/d/1YZ5GodxM7cXv0ajjjGFY-GKd7lI-4Y7K/view?usp=drivesdk
-
+https://drive.google.com/file/d/1N43xXUFwh4gu7_RJ6IrDqO2oh0YOeqcQ/view?usp=drive_link
 
 
 
